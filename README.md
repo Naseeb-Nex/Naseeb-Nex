@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=00F706&center=true&width=435&lines=Hola......;I'm+Muhammed+Naseeb+....;Wish+you+a+good+day%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=00F706&center=true&vCenter=true&width=435&lines=Hola......;+I'm+Muhammed+Naseeb+;Wish+you+a+good+day%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
+<br>
 <h3 align="center">Make it work, make it right, make it fast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naseeb-nex&label=Profile%20views&color=0e75b6&style=flat" alt="naseeb-nex" /> </p>
