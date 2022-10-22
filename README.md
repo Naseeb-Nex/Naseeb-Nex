@@ -1,5 +1,5 @@
-<div align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=00F706&center=true&vCenter=true&width=435&lines=Hola......;+I'm+Muhammed+Naseeb+;Wish+you+a+good+day%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
+<div align="center">
+  <img src="https://github.com/Naseeb-Nex/Naseeb-Nex/blob/main/banner.png?raw=true" alt="Card header"/>
 </div>
 <br>
 <h3 align="center">Make it work, make it right, make it fast</h3>
