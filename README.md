@@ -31,9 +31,11 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Naseeb-Nex&theme=radical&border_radius=15&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
 
