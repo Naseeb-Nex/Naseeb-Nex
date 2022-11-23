@@ -25,7 +25,16 @@
   ## 📊 &nbsp;My activities
     
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Naseeb-Nex&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naseeb-Nex&show_icons=true&theme=radical) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NaseebNex&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naseeb-Nex&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Naseeb-Nex&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naseeb-Nex&show_icons=true&theme=radical)
+  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NaseebNex&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naseeb-Nex&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 
 
 <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
