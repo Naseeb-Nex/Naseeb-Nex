@@ -1,44 +1,128 @@
 <div align="center">
-  <img src="https://github.com/Naseeb-Nex/Naseeb-Nex/blob/main/banner.png?raw=true" alt="Card header"/>
-</div>
-<br>
-<h3 align="center">Make it work, make it right, make it fast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naseeb-nex&label=Profile%20views&color=0e75b6&style=flat" alt="naseeb-nex" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=AI+Engineer;GenAI+Architect;End-to-End+AI+Solutions" alt="Typing SVG Title" />
 
-- 🌱 I’m currently learning **Flutter**
+# ⚡ MUHAMMED NASEEB
+### AI Engineer • GenAI Architect
 
-- 📫 How to reach me **muhammednaseeb02@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/naz__eeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naz__eeb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammed-naseeb-647176218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-naseeb-647176218" height="30" width="40" /></a>
-<a href="https://fb.com/muhammed naseeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammed naseeb" height="30" width="40" /></a>
-<a href="https://instagram.com/__nazeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__nazeeb" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/naz__eeb">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/muhammed-naseeb-647176218">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muhammednaseeb02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=2000&color=A9B2C3&center=true&vCenter=true&width=800&height=40&lines=%3E+Researching+intelligence.;%3E+Architecting+the+future.;%3E+Developing+it+end-to-end." alt="Typing SVG Quote" />
 
-  
-  ## 📊 &nbsp;My activities
-    
-  
-  <div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Naseeb-Nex&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naseeb-Nex&show_icons=true&theme=radical)
-  
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NaseebNex&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naseeb-Nex&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=naseeb-nex&label=Profile%20views&color=58a6ff&style=flat-square" alt="Visitors" />
 
-<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
+</div>
 
-<div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<br/>
+
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Who I Am
+
+I am an **AI Engineer** and **GenAI Architect** focused on conceptualizing, architecting, and developing **End-to-End GenAI Solutions**. My expertise lies at the intersection of full-stack engineering and cutting-edge artificial intelligence. I actively conduct **AI research** to stay ahead of the curve, experimenting with new foundation models to push the boundaries of large language models—crafting intelligent, multi-agent systems and advanced RAG architectures wrapped in highly functional user interfaces.
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> What I'm Architecting & Researching
+
+- 🛠️ **Agentic Frameworks:** Currently developing and researching with the **Microsoft Agent Framework**, **Google Agent Development Kit**, **LangChain/LangGraph**, **LlamaIndex**, and **CrewAI**.
+- 🧠 **Multi-Agent Systems:** Designing autonomous AI systems capable of deep reasoning, planning, and multi-modal tool calling.
+- ⚡ **Advanced LLM Orchestration:** Architecting sophisticated RAG pipelines with robust retrieval, semantic routing, and hallucination mitigation.
+- 🧪 **AI Research & Prototyping:** Conducting continuous research on newly released foundation models, state-of-the-art prompt engineering, and evaluation frameworks.
+- 🌐 **End-to-End Product Development:** Bridging intelligence with interactive frontend experiences (React, Next.js) and robust backends (FastAPI, Python).
+
+━━━ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /> ━━━
+
+## 🛠️ Core Skills Matrix
+
+### 🧠 GenAI & Research
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square)
+
+### 📊 Applied ML & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### ⚡ Full-Stack & APIs
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### 🔌 Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+━━━ ◦•◦ ━━━
+
+<!-- ## 🔥 End-to-End Solutions & Architectures
+
+### 📨 [MailSentinel Python Engine](https://github.com/Naseeb-Nex/mail-sentinel-py)
+*Intelligent email processing and categorization engine.*
+- **Tech Stack:** Python, FastAPI, NLP Models, IMAP via Python
+- **Problem Solved:** Architected an end-to-end intelligent mail tracking engine with zero-data-leak processing. Fully replaces a Go-based system with an AI-native Python backend capable of hooking deeply into modern foundation models.
+
+### 🤖 Agentic Retrieval Assistant *(Private Architecture)*
+*Autonomous agent with multi-modal tool-calling capabilities.*
+- **Tech Stack:** LangChain, OpenAI API, Vector DB
+- **Problem Solved:** Synthesized internal corporate data by chaining deterministic retrieval queries and agentic formatting loops. Demonstrates my approach to solving hallucination via strict provenance and robust architecture.
+
+### 🎨 [Pixel-Perfect App Generator](https://github.com/Naseeb-Nex/resume-builder)
+*Deterministic layout generation for highly structured aesthetic documents.*
+- **Tech Stack:** React, TypeScript, TailwindCSS
+- **Problem Solved:** Built a complete, interactive full-stack frontend tailored for generating highly customizable outputs like visual PDFs. Demonstrates my capability to bridge complex backend logic with beautiful, functional UX.
+
+━━━ ◦•◦ ━━━ -->
+
+## 📈 Terminal Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naseeb-Nex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Naseeb-Nex&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naseeb-Nex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" width="48%" />
+</div>
+
+━━━ ◦•◦ ━━━
+
+## 🎯 What I'm Looking For & Contact
+
+I am actively open to roles focused on **GenAI Architecture, AI Engineering, or Applied Research Solutions**. 
+If you're building next-gen AI applications, complex agentic workflows, or end-to-end intelligent solutions, I'd love to collaborate.
+
+- 📧 Email: **[muhammednaseeb02@gmail.com](mailto:muhammednaseeb02@gmail.com)**
+- 💼 LinkedIn: **[Muhammed Naseeb](https://linkedin.com/in/muhammed-naseeb-647176218)**
+- 🐦 X / Twitter: **[@naz__eeb](https://twitter.com/naz__eeb)**
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</div>
+
+<br/>
+
+<div align="right">
+  <code>[naseeb@nex-terminal ~]$ exit</code>
+  <br/>
+  <code>logout</code>
 </div>
